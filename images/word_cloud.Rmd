@@ -1,0 +1,20 @@
+---
+title: "web_component"
+author: "jian"
+date: "June 5, 2018"
+output:  
+  flexdashboard::flex_dashboard:
+    orientation: rows
+---
+
+```{r setup, include=FALSE}
+library(wordcloud2)
+```
+
+```{r }
+word <-c("Data Insights", "Tailored", "Effective", "Small Business", "Forecast", "Risk Analysis", "Expertise", "Data Solution", "Data",  "Efficiency", "BI", "Analyze")
+value<- c(60,  55, 45, 40, 37, 35,  32, 30, 30, 27, 25, 20)
+brand <- data.frame(word, value)
+wordcloud2(brand)
+```
+

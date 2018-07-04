@@ -1,0 +1,70 @@
+<html>
+
+<head>
+    <title>Coltony Corporation</title>
+    <!--#include virtual="include/meta.html" -->
+	<!--#include virtual="include/jv_script.html" -->
+	<link rel="stylesheet" type="text/css" href="style.css" title="The styles">
+</head>
+<body onload="slideShow()">
+
+	<div class="fixed">
+    <!--#include virtual="include/banner.html" -->
+	</div>
+	</p>
+<!-- content -->
+    <table class="frame" >
+		<tr>
+			<td colspan="2" valign="center">
+				<img src="images/home_w.jpg" width="1000" height="300" alt="Let Old Data Tell New Stories" border="0" title="Front White" />
+			</td>
+		</tr>
+		<tr><td></p></td></tr>
+		        <tr>
+            <td valign="top">
+				<h4 class="title">Operation Monitoring</h4>
+			</td>
+		</tr>		
+		<tr><td></p></td></tr>
+		<tr>
+			<td class="content" valign="top">The inventory dashboard helps the food distributor to monitor inventory level. 
+			Its real time updated warehouse information allows the logistics, sales, procurement and accounting communicate efficiently.
+			</td>
+			<td width="50%">
+				<img src="images/sba_naics.png"  alt="SBA NAICS"  title="Firm Distribution" />			
+			</td>            
+        </tr> 
+		<tr><td></p></td></tr>
+        <tr>
+            <td valign="top">
+				<h4 class="title">Business Exploratory</h4>
+			</td>
+		</tr>
+		<tr>
+			<td class="content" colspan="2">There are numerous data from public resources. We help clients find valuable information that can provide business opportunities.
+			</td>	
+		</tr>
+		<tr><td></p></td></tr>
+		<tr>
+			<td class="highlight">Use Case -- Firm distributions by size vary in industries
+			</td>
+			<td width="50%">
+				<div>
+					<img class="slides" src="images/sba_naics.png"  alt="SBA NAICS"  title="Firm Distribution" />			
+					<img class="slides" src="images/profession.jpg"  alt="Professional Firm Size"  title="Professional, Science & Technical Service Firm Counts" />						
+					<img class="slides" src="images/profession2.jpg"  alt="Professional Firm Receipt"  title="Professional, Science & Technical Service Firm Receipts" />
+				</div>			
+			</td>            
+        </tr> 
+		<tr><td></p></td></tr>
+		
+    </table>
+
+	<p/>
+
+<!-- footer -->
+    <!--#include virtual="include/footer.html" -->
+
+</body>
+
+</html>

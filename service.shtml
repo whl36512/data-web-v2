@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Coltony Corporation</title>
+    <!--#include virtual="include/meta.html" -->
+	<!--#include virtual="include/jv_script.html" -->
+	<link rel="stylesheet" type="text/css" href="style.css" />
+		
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119759656-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-119759656-1');
+	</script>	
+</head>
+
+<body>
+
+<!--#include virtual="include/banner.html" -->
+<!-- service -->	
+	<div class="frontpage">
+		<p></p>
+		<img src="images/wordCloud.jpg" alt="Word Cloud"  />		 
+		<!-- <div id="fgsr"> -->
+			<!-- <h2>Let the Data Tell</h2>			 -->
+		<!-- </div> -->
+		<!-- <div id="fgsl"> -->
+			<!-- <h2>New Stories</h2> -->
+		<!-- </div> -->
+	</div> 
+			
+	<div id="service">
+		<p class="content_hl"></p>	
+		<ul>
+			<li>Are you a small business owner? </li>
+			<p></p>
+			<li>Do you have expertise in your business and want to focus on it?</li>	
+			<p></p>
+			<li>Are you looking for external experts for the areas that you are not familiar?</li>
+			<p></p>
+		</ul>
+		<div class="hd" >
+			<p>Data can help novice become expert.</p>
+			<p>Coltony is data solution expert.</p>
+			<p>We analyze the data, find data insights in client's unfamiliar areas.</p>
+			<p>We provide actionable solutions tailored for your business.</p>
+		</div>		
+	</div>
+
+
+<!--#include virtual="include/footer.html" -->
+		
+</body>
+
+</html>

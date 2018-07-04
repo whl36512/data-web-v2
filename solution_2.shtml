@@ -1,0 +1,122 @@
+<html>
+
+<head>
+    <title>Coltony Corporation</title>
+    <!--#include virtual="include/meta.html" -->
+	<!--#include virtual="include/jv_script.html" -->
+	<link rel="stylesheet" type="text/css" href="style.css" title="The styles">
+</head>
+
+<body>
+
+    <table class="frame">
+		<tr><td></p></td></tr>
+	<div class="fixed">
+<!-- banner -->
+    <!--#include virtual="include/banner.html" -->
+	</div>
+	</p>
+<!-- content -->
+        <tr>
+           <td>
+    		<table>
+            <tr>
+            <td width="62" valign="top">
+				<img src="images/data_report.jpg" width="450" height="200" alt="data report" border="0" title="Data Report" />
+            </td>
+            <td width="26" />
+            <td>
+                <table>
+                    <tr>
+                        <td><h4 class="title">Report</h4>
+                        </td>
+                    </tr>
+					<tr>
+						<td />
+					</tr>
+                    <tr>
+						<td class="content"><li>Summarize business across all divisions. We generate summary reports for clients to better understand your businesses in multiple dimensions.</li> 
+						</td>
+					</tr>
+					<tr>
+						<td />
+					</tr>
+					<tr>
+						<td class="content"><li>Monitor operations in real time. We update real time reports to clients when unusual activities occur.</li>
+						</td>
+					</tr>
+				</table>
+			</td>
+            <td width="36" />
+        </tr>
+         <tr><td></p></td></tr>
+		<tr>
+            <td width="62" valign="top">
+				<img src="images/data_analysis.jpg" width="450" height="200" alt="data analysis" border="0" title="Data Analysis" />
+            </td>
+            <td width="26" />
+            <td>
+                <table>
+                    <tr>
+                        <td><h4 class="title">Analyze</h4>
+                        </td>
+                    </tr>
+					<tr>
+						<td />
+					</tr>
+                    <tr>
+						<td class="content"><li>Forecast business. We help clients estimate future business developments with accuracy.</li>
+						</td>
+					</tr>
+					<tr>
+						<td />
+					</tr>
+					<tr>
+						<td class="content"><li>Risk management. We guide clients to make business decision based on risk evaluation</li>
+						</td>
+					</tr>
+				</table>
+			</td>
+            <td width="36" />
+        </tr>
+         <tr><td></p></td></tr>
+        <tr>
+            <td width="62" valign="top">
+				<img src="images/data_visual.jpg" width="450" height="200" alt="data visualization" border="0" title="Data Visualization" />
+            </td>
+            <td width="26" />
+            <td>
+                <table>
+                    <tr>
+                        <td><h4 class="title">Visualize</h4>
+                        </td>
+                    </tr>
+					<tr>
+						<td />
+					</tr>
+                    <tr>
+						<td class="content"><li>Align goals at ease. We present strategical objects on scorecards to help clients adjust the direction.</li>
+						</td>
+					</tr>
+					<tr>
+						<td />
+					</tr>
+					<tr>
+						<td class="content"><li>KPIs at a glance. We build executive dashboards to allow performance monitoring efficiently and effectively.
+						</td>
+					</tr>
+				</table>
+			</td>
+            <td width="36" />
+        </tr>
+ 
+    </table>
+
+	<p/>
+
+<!-- footer -->
+    <!--#include virtual="include/footer.html" -->
+
+</body>
+
+</html>

@@ -1,0 +1,93 @@
+<html>
+
+<head>
+	<title>Coltony -- Contact Us</title>
+    <!--#include virtual="include/meta.html" -->
+	<!--#include virtual="include/jv_script.html" -->
+	<link rel="stylesheet" type="text/css" href="style.css" title="The styles">
+</head>
+
+<body>
+
+<!-- header -->
+    <!--#include virtual="include/header.shtml" -->
+
+<!-- banner -->
+    <!--#include virtual="include/banner.html" -->
+
+	<p />
+
+<!-- content -->
+	<table class="frame" >
+        <tr>
+            <td width="62" valign="top" bgcolor="#dbdbe8">
+                <!--#include virtual="include/catalog.html" -->
+            </td>
+            <td width="26" />
+            <td>
+                <table>
+                    <tr>
+                        <td><h4 class="title">Contact Us</h4>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="content">Should you have any questions about our services or products,
+                        please feel free to contact us. We attend trade fairs in China each year. Send us a sourcing
+                        request, we will be more than happy to find the right products for you.
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="highlight">Global Headquarter:
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="content">
+                            <p>2916 Colton Court<br>
+                               Lisle, IL, 60532<br>
+                               USA<br>
+                               Telephone: +1 630 5449198<br>
+                               Fax: +1 206 8886611, +1 630 8393472<br>
+                               Voice Mail: +1 206 8886622<br>
+                               E-mail: info@coltony.com<br>
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><p />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="highlight">Regional Liaison:
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="content">
+                            <p>5 N. Xuhong Rd, Building 18, Suit 1902<br>
+                               Shanghai, 200030<br>
+                               P. R. China<br>
+                               Telephone / Fax: +86 21 64076612<br>
+                               E-mail: coltony@gmail.com<br>
+                            </p>
+                        </td>
+                    </tr>
+                 </table>
+             </td>
+             <td width="26" />
+            <td width="142" ><img src="images/jinmao_mansion.gif" width="140" height="205">
+            </td>
+         </tr>
+	</table>
+
+	<p />
+
+<!-- footer -->
+    <!--#include virtual="include/footer.html" -->
+
+</body>
+
+</html>
+

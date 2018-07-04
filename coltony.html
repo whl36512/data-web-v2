@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Coltony Corporation</title>
+    <!--#include virtual="include/meta.html" -->
+	<!--#include virtual="include/jv_script.html" -->
+	
+	<style>
+		@keyframes square {
+			0%   {left:10px; top:10px;}
+			25%  {left:500px; top:10px;}
+			50%  {left:500px; top:300px;}
+			75%  {left:10px; top:300px;}
+			100% {left:10px; top:10px;}
+		}
+
+		.wordflow {
+			color:white;
+			font-family:Sans-serif;
+			font-size:12pt;
+			left:300px;
+			top:10px;
+			position: absolute;
+			animation-name: square;
+			animation-duration: 14s;
+		}
+
+		.container {
+			position: relative;
+		}
+
+		img {
+			position: absolute;
+			display: block;
+			margin-left:auto;
+			margin-right: auto;
+		}
+	</style>
+
+</head>
+
+<body>
+	
+<!-- <!-- banner -->
+	<!--#include virtual="include/banner.html" -->
+
+<!-- content -->	
+	
+	<!-- <div class="container">
+		<div class="wordflow">
+			<h2>Let The Data Talk</h2>
+			<h2>Old Data New Stores</h2>
+		</div>
+		<img src="images/front_page.jpg" alt="Let the  Data Talk" />		
+	</div> --> -->
+	
+	<div>
+		<h2 class="title">Consulting</h2>
+		<ul>
+			<li>Database Managment</i>
+			<li>Database Development</li>
+
+		</ul>
+		
+			
+			<li class="content">Database Consulting</li>
+			<li class="content">Business Consulting</li>
+		
+	</div>
+<!-- footer -->
+	<!--#include virtual="include/footer.html" -->
+</body>
+
+</html>

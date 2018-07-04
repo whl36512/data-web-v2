@@ -1,0 +1,38 @@
+/* questions: alignment setting doesn't work */
+
+ body,td,div,p,a,font,span {font-family: arial; align:center} 
+
+/* h6.slogan {font-family:arial; font-weight:bold; color:#20124d; */
+			/* font-style:italic} */
+h4.title {font-family:arial; font-weight:bold; color:#20124d} 
+/* h1.title {font-family:arial narrow; font-weight:bold; color:#20124d} */
+
+div.fixed { position: fixed; }
+
+table.frame {border:1; cellspacing:0; cellpadding:0; width:100%; background:#FFFFFF}
+hr {color:#20124d; width:100%}
+
+
+includeContent{font-family:arial; font-size:1; color:#20124d}         /* colorful contents in include files*/
+includeColorContent{font-family:arial; font-size:1; color:#20124d}         /* colorful contents in include files*/
+
+a.banner {text-decoration:none; font-family:arial; font-size:10pt; color:#000000; align:center; nowrap}
+a.footer {color:#20124d}
+
+.slides {display:none; width:100%; border:0}
+
+/* a.navigator {text-decoration:none; font-size:8pt; color:#000000}                           /*leftside navigator links */ */
+
+
+td.banner {width:94; height:10; align:center; valign:middle}         /* banner */
+td.highlight {font-family:arial; font-style:italic; font-size:10pt; font-weight:bold;}    /* highlighted content*/
+td.content{font-family:arial; font-size:10pt}         /* normal contents */
+td.bold {font-family:arial; font-size:10pt; font-weight:bold }         /* bold normal content */
+td.footer {font-family:arial; font-size:8pt; align:center; font-weight:bold}       /* footer */
+
+
+/* img.arrow {url(images/arrow.gif); border:0; width:12; height:10 }     /* doesn't work */ */
+
+/* input.textInfo {type:text; font-family:arial, sans-serif; font-size:10pt; maxlength:50; size:12} */
+/* input.pwd {type:password; font-family:arial, sans-serif; font-size:10pt; maxlength:50; size:12} */
+		

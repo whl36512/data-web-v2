@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Coltony Corporation</title>
+    <!--#include virtual="include/meta.html" -->
+	<!--#include virtual="include/jv_script.html" -->
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119759656-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-119759656-1');
+	</script>
+</head>
+
+<body>
+
+<!--#include virtual="include/banner.html" -->
+	
+	<div id="about">
+	    <div class="hd" >
+		22-year experience in business database mining, project management and application development. 
+		</div>
+		<div class="hd"> 13-year expereince in business data analysis, data science, big data and business intelligence.
+		</div>
+		<p></p>
+		<div class="row">
+			<div class="column">
+				<div class="resume_img">
+					<img class="jian" src="images/jian.jpg" alt="jian"/>
+					<div class="resume">
+						<span class="content_hl">Jian Tao</span>
+						<p>Jian Tao is the co-owner and a business analyst in Coltony. She is responsible for the business development and the project development.</p>
+						<p>Jian started her information technology career as a consultant in Cap Gemini in 2000 and developed a professional equity trading software in ABN Amro and Merrill Lynch. She joined Chicago Board Options Exchange in 2005. She was a senior engineer, project lead and development manager. Her interest to data mining and business analysis was cultivated when she worked for regulatory surveillance applications. Jian was known to get to the bottom of the questions, always explored the data and grasped issues at first hand. </p>
+						<p>Jian believes the data analytics will allow business owners be more focused and more confident on the decisions. </p>
+						<p>Jian was the sales representative for Caravan Products (USA) and Marine Accommm Pte. Ltd. (Singapore) in China. She helped the companies open the market in China initially.</p>
+						<p>Jian has a BE in Industrial Management Engineering from Shanghai Jiao Tong University, a MS in Computer Science from Western Illinois University with honors, Upsilon Pi Epsilon. She has the Advanced Project Management certificate from University of Chicago. </p>
+						<p>She worked for the industries of financial service, technologies, international trading, food and marine transportation. </p> 
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="column">
+				<div class="resume_img">
+					<img class="weihan" src="images/weihan.jpg" alt="weihan" />
+					<div class="resume">
+						<span class="content_hl">Weihan Lin</span>
+						<p> Weihan Lin is the co-owner in Coltony and a data solution architect. He oversees the system infrastructure and technologies.</p>
+						<p>Weihan’s database experience in Oracle started from 1998 when he worked for Walgreens. He was a senior data architect for Axiom and Orbits. He started big data consulting from 2009 as an independent consultant for Nevteq, Sears, and Cloudera. He worked for Intel software service focused on big data and cloud. With his intelligent effort, he won many recognition awards from companies.</p>
+						<p>Weihan is currently focusing on machine learning, predictive analytics and streaming analytics. </p>
+						<p>Weihan received a Dual Degree of BS in Cryogenic Engineering and Electrical Engineering with honors, top 1% scholar and a MS in Engineering from Shanghai Jiao Tong University. He has a MS in Computer Science from University of Illinois at Springfield. He was a visiting scholar at University of Karlsruhe.	</p>
+						<p>He has experience in retails, travel, financial trading and technical consulting.
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+<!--#include virtual="include/footer.html" -->
+		
+</body>
+
+</html>

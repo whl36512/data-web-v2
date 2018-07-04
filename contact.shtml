@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Coltony Corporation</title>
+    <!--#include virtual="include/meta.html" -->
+	<!--#include virtual="include/jv_script.html" -->
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119759656-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-119759656-1');
+	</script>
+</head>
+
+<body>
+
+<!--#include virtual="include/banner.html" -->
+	<div id="contact">		
+		<div class="hd" >Contact us for a free consultation session.</div>
+		<p></p>
+		<span id="email"><a href="mailto:info@coltony.com">info@coltony.com</a></span><span>(331) 481-9198</span>
+		
+		<!-- <form action="cgi-bin/contact.py"> -->
+			<!-- <label for="name">Name</label> -->
+			<!-- <input type="text" id="name" name="name" placeholder="Your name.."> -->
+
+			<!-- <label for="email">Email</label> -->
+			<!-- <input type="text" id="email" name="email" placeholder="Your email.."> -->
+
+			<!-- <label for="subject">Subject</label> -->
+			<!-- <select id="subject" name="subject"> -->
+			  <!-- <option value="freeConsult">Request a free data solution consultation session.</option> -->
+			  <!-- <option value="learnMore">Learn more about the services.</option> -->
+			  <!-- <option value="others">Others</option> -->
+			<!-- </select> -->
+
+			<!-- <label for="message">Message</label> -->
+			<!-- <textarea id="message" name="message" placeholder="Write something.." style="height:200px"></textarea> -->
+
+			<!-- <input type="submit" value="Submit"> -->
+		<!-- </form> -->
+	
+		<img src="images/sunset.jpg" alt="Let the  Data Talk" />	
+	</div>
+	<p></p>
+
+<!--#include virtual="include/footer.html" -->
+		
+</body>
+
+</html>
